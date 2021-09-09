@@ -20,3 +20,7 @@ Back-End: Firebase, Firestore
 - [Dani Poplin](https://github.com/DPoplin)
 - [Yolanda Haynes](https://github.com/YolandaHaynes) 🎊
 - [Tatyana Celovsky](https://github.com/tcelovsky) :sparkles:
+
+## Live Link
+
+- [WootWoot!](https://smart-shopping-list-e191b.web.app/)
