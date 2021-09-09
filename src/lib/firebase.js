@@ -4,13 +4,15 @@ import firebase from 'firebase/app';
 import 'firebase/firestore';
 
 // Initalize Firebase.
-var firebaseConfig = {
-  apiKey: "AIzaSyB9-K-FKVH2s-dGBLKpXKX-kfE4hENprak",
-  authDomain: "tcl-27-shopping-list.firebaseapp.com",
-  projectId: "tcl-27-shopping-list",
-  storageBucket: "tcl-27-shopping-list.appspot.com",
-  messagingSenderId: "467906502054",
-  appId: "1:467906502054:web:dd45ccdf5ec94fd2f54367"
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: 'AIzaSyBmzTjNG-MQY6h4JUtEcw1Qu5LSUzFEkO4',
+  authDomain: 'smart-shopping-list-e191b.firebaseapp.com',
+  projectId: 'smart-shopping-list-e191b',
+  storageBucket: 'smart-shopping-list-e191b.appspot.com',
+  messagingSenderId: '556220177707',
+  appId: '1:556220177707:web:567bd18f5a8cdf3e22396e',
+  measurementId: 'G-5JZX17K65N',
 };
 
 let fb = firebase.initializeApp(firebaseConfig);
