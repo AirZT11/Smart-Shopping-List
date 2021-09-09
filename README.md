@@ -11,6 +11,7 @@ As a user, you will enter items (e.g., “Greek yogurt” or “Paper towels”)
 ## What technologies were used?
 
 Front-End: React, Bootstrap, Material UI
+
 Back-End: Firebase, Firestore
 
 ## Collaborators
